@@ -1,16 +1,8 @@
 # An Analysis of Kickstarter Campaigns
 
-## Performing analysis on Kickstarter data to uncover trend
+## Performing analysis on Kickstarter data to uncover trends.
 
-### Performing data analysis on crowdfunding projects to uncover any hidden trends.
-
-### Analysis based on United states Successful campaigns.
-
-*  In United States there were 525 successful theater Kickstarters Campaigns.
-
-### Analysis of Great Britain Campaigns.
-
-*   We have found that while there are only a total of 604 Kickstarter campaigns for plays in Great Britain, the "theater" category is the most successful.
+### Performing data analysis on crowd funding projects to uncover any hidden trends.
 
 ### Analysis of Outcomes Based on Campaign Length
 
@@ -34,6 +26,14 @@
 
 *   Foresight campaign was successful. It reached 100% of its goal -- it even went over by four dollars!
 *   The average donation is surprisingly high, considering there are only 17 backers. Scrolling further, we can also see that the campaign wasn't active for very long—just under a month.
+
+### Analysis based on United states Successful campaigns.
+
+*  In United States there were 525 successful theater Kickstarters Campaigns.
+
+### Analysis of Great Britain Campaigns.
+
+*   We have found that while there are only a total of 604 Kickstarter campaigns for plays in Great Britain, the "theater" category is the most successful.
 
 ### Analysis based on central tendency: mean, median, and mode
 
