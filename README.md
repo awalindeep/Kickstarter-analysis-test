@@ -20,11 +20,11 @@
 
 ### Analysis of Outcomes Based on Parent Category and Subcategory
 
-* * Theater is a popular and successful type of campaign overall. 
+* Theater is a popular and successful type of campaign overall. 
 
-* * Theater follows an overall trend: there is a spike of successful campaigns that began in June, but that tapers off by the end of the year. 
+* Theater follows an overall trend: there is a spike of successful campaigns that began in June, but that tapers off by the end of the year. 
 
-* * By comparison, the data around technology campaigns reveals a different story. Instead of one large spike, their trend lines are a bit all over the place and less predictable.
+* By comparison, the data around technology campaigns reveals a different story. Instead of one large spike, their trend lines are a bit all over the place and less predictable.
 
 ![Parent Category outcome](Parent-Category-outcome.png)
 
@@ -42,20 +42,20 @@
 
 ### Analysis based on standard deviation and variance.
 
-**   Based on these statistics, we can determine the following:
+--   Based on these statistics, we can determine the following:
 
-* *  The mean of each distribution is around the 3rd quartile, so the data follows similar distributions in each subset.
+* The mean of each distribution is around the 3rd quartile, so the data follows similar distributions in each subset.
 
-* *  The standard deviations are larger than the mean, which means everything below the mean is considered "close" to the center.
+* The standard deviations are larger than the mean, which means everything below the mean is considered "close" to the center.
 
-* *  Some large values are driving all of these distributions. The standard deviations are all roughly twice the IQR in each distribution, except in the failed Kickstarters, where the standard deviation is closer to three times the IQR. There must be some failed Kickstarters with really high goals!
+* Some large values are driving all of these distributions. The standard deviations are all roughly twice the IQR in each distribution, except in the failed Kickstarters, where the standard deviation is closer to three times the IQR. There must be some failed Kickstarters with really high goals!
 
 ![Statistics](data-1-5-2-statistical.png)
 
 ### Analysis based on box plots using statistical computations
 
-* * The box shows the interquartile range with a line for the median and an "X" to indicate the mean. The whiskers show the extreme values within 1.5 times the interquartile range. Outliers are represented by labeled dots.
+* The box shows the interquartile range with a line for the median and an "X" to indicate the mean. The whiskers show the extreme values within 1.5 times the interquartile range. Outliers are represented by labeled dots.
 
 ![Whisker Plot](data-1-5-4-labeled-dots.png)
 
-* * From these plots, we can see that the mean campaign goal is around £4,000. This is outside of the range of outliers for amount pledged, so Louise should probably try to get her play produced for less than £4,000. Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
+* From these plots, we can see that the mean campaign goal is around £4,000. This is outside of the range of outliers for amount pledged, so Louise should probably try to get her play produced for less than £4,000. Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
