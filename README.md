@@ -16,17 +16,19 @@
 
 *   The month that launched the most successful Kickstarter campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launched. This can be determined by examining the points along the trend lines of the chart. 
 
-![Outcomes based on launch date](Outcomes based on launch date.png)
+![Outcomes based on launch date](Outcomes-based-on-launch-date.png)
 
 ### Analysis of Outcomes Based on Parent Category and Subcategory
 
-*   Theater is a popular and successful type of campaign overall. 
-**  Theater follows an overall trend: there is a spike of successful campaigns that began in June, but that tapers off by the end of the year. 
-*   By comparison, the data around technology campaigns reveals a different story. Instead of one large spike, their trend lines are a bit all over the place and less predictable.
+* * Theater is a popular and successful type of campaign overall. 
 
-![Parent Category outcome](Parent Category outcome.png)
+* * Theater follows an overall trend: there is a spike of successful campaigns that began in June, but that tapers off by the end of the year. 
 
-![Subcategory statistics](Subcategory statistics.png)
+* * By comparison, the data around technology campaigns reveals a different story. Instead of one large spike, their trend lines are a bit all over the place and less predictable.
+
+![Parent Category outcome](Parent-Category-outcome.png)
+
+![Subcategory statistics](Subcategory-statistics.png)
 
 ### Analysis of Outcomes Based on Foresight Campaign in Great Britain
 
