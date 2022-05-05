@@ -51,7 +51,7 @@
 
 ### Analysis based on standard deviation and variance.
 
-![Statistics](data-1-5-2-statistical.png)
+![Statistics](data-statistical.png)
 
 --   Based on these statistics, we can determine the following:
 
@@ -65,7 +65,7 @@
 
 * The box shows the interquartile range with a line for the median and an "X" to indicate the mean. The whiskers show the extreme values within 1.5 times the interquartile range. Outliers are represented by labeled dots.
 
-![Whisker Plot](data-1-5-4-labeled-dots.png)
+![Whisker Plot](Box-Wiskers.png)
 
 *   From these plots, we can see that the mean campaign goal is around £4,000. This is outside of the range of outliers for amount pledged, so Louise should probably try to get her play produced for less than £4,000. Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
 
