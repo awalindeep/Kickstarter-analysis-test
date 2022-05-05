@@ -87,6 +87,9 @@
 
 *   
 
+![Outcomes vs Goals](Outcomes_vs_Goals.png)
+
+
 ### Challenges and Difficulties Encountered
 
 ## Results
@@ -98,3 +101,6 @@
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+
+
+
