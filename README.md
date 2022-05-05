@@ -8,7 +8,7 @@
 
 ## Purpose of Project
 
-### Purpose of this Project is to find out how different campaigns fared in relation to their launch date and their funding goals untilizing available kickstarter data.
+### Purpose of this Project is to find out how different campaigns fared untilizing available kickstarter data.
 
 ## Analysis and Challenges
 
@@ -68,6 +68,19 @@
 ![Whisker Plot](data-1-5-4-labeled-dots.png)
 
 *   From these plots, we can see that the mean campaign goal is around £4,000. This is outside of the range of outliers for amount pledged, so Louise should probably try to get her play produced for less than £4,000. Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
+
+# An Analysis of Campaigns Based on Launch dates
+
+## Performing data analysis on Croudfunding Projects to uncover trends based on Launch dates and funding goals.
+
+## Overview of Project
+
+### Louise wants to start a crowdfunding campaign to help fund her play "FEVER". She estimated a Budget of over $10,000 and is hestant to jump into her first fundraising campaign. She is looking for help to Organize, Sort and analyze crowdfunding data to determine specific factors that make projects campaign successful. We will be performing data analysis on crowd funding projects to uncover any hidden trends and provide insights and set her campaign to mirror other successful campaings in same category.
+
+## Purpose of Project
+
+### Purpose of this Project is to find out how different campaigns fared in relation to their launch date and their funding goals untilizing available kickstarter data.
+
 
 ### Analysis of Outcomes Based on Launch Date
 
