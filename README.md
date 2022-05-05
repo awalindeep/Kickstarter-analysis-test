@@ -96,9 +96,11 @@
 
 ### Analysis of Outcomes Based on Goals
 
-*   From Outcomes based on Golas analysis it was determined that Failed Kickstarter campaigns have much higher fundraising goals than successful Kickstarter campaigns.
+*   From Outcomes based on Goals analysis it can be determined that percentage Failed Kickstarter campaigns was lower for lower fundraising goals.
 
-*   
+*   The line chart also dictates that the campaigns with lower fudraising goals had high success rate. 
+
+*   In result we can conclude that the higher the fund raising goals the lower the success rate of a campaign.  
 
 ![Outcomes vs Goals](Outcomes_vs_Goals.png)
 
@@ -109,7 +111,15 @@
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+- From this analysis we found that for parent category "Theater" the month of May launched most successful Kickstarter campaigns.
+
+- However, January, March, September and November and december all had roughly the same number of failed campaigns launched. 
+
+- The Theater campaign followed an overall trend: There is a spike of successful campaigns that began in May, but tapered off by the end of the year. 
+
 - What can you conclude about the Outcomes based on Goals?
+
+- Based on Outcomes on goals we can conclude that the higher the fund raising goals the lower the success rate of a campaign.  
 
 - What are some limitations of this dataset?
 
